@@ -30,12 +30,5 @@ Skill Enhancement: Regularly exploring and practicing coding solutions from Code
 
 Knowledge Sharing: CodeLIB fosters a culture of knowledge sharing and collaboration within the coding community, enabling users to learn from each other's experiences and solutions.
 
-Personal Development: Maintaining and contributing to CodeLIB allows [Your Name] to continually refine their coding skills, expand their knowledge base, and establish themselves as a proficient coder within the community.
+Personal Development: Maintaining and contributing to CodeLIB allows me to continually refine my coding skills, expand me knowledge base, and establish themselves as a proficient coder within the community.
 
-# Future Development
-
-In the future, I am plans to enhance CodeLIB by:
-
-Expanding the repository with additional coding solutions covering a wider range of topics and difficulty levels.
-Incorporating interactive features such as coding challenges, quizzes, and educational resources.
-Collaborating with other programmers and coding enthusiasts to further enrich the repository and foster a vibrant community of learners.
